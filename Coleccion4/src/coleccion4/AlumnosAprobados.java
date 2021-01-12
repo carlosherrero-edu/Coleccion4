@@ -2,7 +2,7 @@ package coleccion4;
 
 import java.util.Scanner;
 
-//solución de Miguel
+//Cambio hecho en GitHub
 
 public class AlumnosAprobados {
 	
